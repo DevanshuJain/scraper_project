@@ -18,8 +18,6 @@ def scraper
 	end
 
 	file_to_save = File.new("example.txt", "w")
-	# byebug
-	# file_to_save.push(carts)
 	file_to_save.puts(carts)
 	file_to_save.close
 end
