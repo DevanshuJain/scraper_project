@@ -1,0 +1,24 @@
+{:card__title=>"Nike Air Zoom-Type Premium By You", :card__price=>"₹ 16,595", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Force 1 Low Unlocked By You", :card__price=>"₹ 11,495", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Force 1 Low By You", :card__price=>"₹ 8,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Max 90 Unlocked By You", :card__price=>"₹ 13,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air VaporMax 2020 Flyknit By You", :card__price=>"₹ 20,695", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Blazer Mid '77 By You", :card__price=>"₹ 10,295", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Max 95 Unlocked By You", :card__price=>"₹ 17,595", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Max 90 Unlocked By You", :card__price=>"₹ 13,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Zoom-Type By You", :card__price=>"₹ 15,495", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Max 97 By You", :card__price=>"₹ 16,595", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Internationalist By You", :card__price=>"₹ 8,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Blazer Mid By You", :card__price=>"₹ 9,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Blazer Low By You", :card__price=>"₹ 7,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike React Vision By You", :card__price=>"₹ 12,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Max 2090 By You", :card__price=>"₹ 13,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Max 90 By You", :card__price=>"₹ 11,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Max 90 By Shabbaaaaa", :card__price=>"₹ 11,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Max 1 By You", :card__price=>"₹ 10,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Max 270 React By You", :card__price=>"₹ 14,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Max 200 By You", :card__price=>"₹ 11,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike React Presto By You", :card__price=>"₹ 11,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike React Element 55 By You", :card__price=>"₹ 12,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Presto By You", :card__price=>"₹ 12,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
+{:card__title=>"Nike Air Max 95 By You", :card__price=>"₹ 15,995", :url=>"https://www.nike.com/in/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok"}
